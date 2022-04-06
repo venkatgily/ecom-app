@@ -1,0 +1,19 @@
+.header-nav {
+  background-color: #b800e6;
+  background-image: linear-gradient(to right, #b800e6, #8a00e6);
+  color: #ffffff;
+}
+
+.header-nav .nav-link {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header-nav a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.header-nav .navbar-brand {
+    color: #ffffff !important;
+}

@@ -1,0 +1,6 @@
+.view-button {
+    background-color: #b800e6;
+    background-image: linear-gradient(to right, #b800e6, #8a00e6);
+    color: #ffffff;
+    border: none !important;
+}
